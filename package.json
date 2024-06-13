@@ -1,14 +1,24 @@
 {
-  "name": "cannon-js-debuger",
+  "name": "collider",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "^9.106.0",
+    "@react-three/fiber": "^8.16.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "cannon": "^0.6.2",
+    "cannon-es": "^0.20.0",
+    "cannon-es-debugger": "^1.0.0",
+    "dat.gui": "^0.7.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.165.0",
+    "use-cannon": "^0.5.3",
+    "use-sound": "^4.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
